@@ -1,0 +1,4 @@
+build/
+dist/
+oop_python_osc.egg-info/
+.idea/
